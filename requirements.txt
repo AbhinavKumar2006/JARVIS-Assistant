@@ -1,0 +1,10 @@
+requests
+pypdf
+opencv-python
+pytesseract
+pyttsx3
+sounddevice
+vosk
+python-docx
+python-pptx
+openpyxl
